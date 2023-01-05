@@ -1,1 +1,15 @@
+*.tar
+*.tar.*
+*.jar
+*.exe
+*.msi
+*.zip
+*.tgz
+*.log
+*.log.*
+*.sig
+*.bkp
+moonraker.conf
+mooncord.json
 autocommit.sh
+.moonraker.conf.bkp
