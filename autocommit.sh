@@ -64,7 +64,7 @@ grab_version(){
 # then update the command below to use the token. Run the command in your base directory and it will
 # handle auth. This should just be executed in your shell and not committed to any files or
 # Github will revoke the token. =)
-#git remote set-url origin https://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@https://github.com/jyoorepo/v2.4r2
+git remote set-url origin https://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@https://github.com/jyoorepo/v2.4r2.git
 # Note that that format is for changing things after the repository is in use, vs initially
 
 push_config(){
